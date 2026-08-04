@@ -1,0 +1,11 @@
+customer id,customer,product,price,city
+101,rahul,laptop,55000,pune
+102,james,mobile,25000,pune
+103,john,laptop,60000,pune
+104,priya,headphones,NaN,mumbai
+105,ken,laptop,55000,pune
+106,jack,mobile,28000,nashik
+107,simon,laptop,NaN,pune
+108,peter,mobile,25000,mumbai
+109,priya,laptop,65000,nagpur
+110,rahul,mobile,NaN,mumbai
