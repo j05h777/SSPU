@@ -1,0 +1,11 @@
+order id,customer,gender,age,city,product,price,category,quantity
+101,rahul   ,M,28,pune,laptop,55000.00,Electronics,1
+102,james   ,M,32,pune,mobile,25000.00,Electronics,2
+103,john    ,M,25,pune,laptop,60000.00,Electronics,1
+104,priya   ,F,27,mumbai,headphones,NaN,Accessories,1
+105,ken     ,M,35,pune,laptop,55000.00,Electronics,1
+106,natasha ,F,29,nashik,mobile,28000.00,Electronics,2
+107,simon   ,M,31,pune,laptop,NaN,Electronics,1
+108,peter   ,M,26,mumbai,mobile,25000.00,Electronics,3
+109,priya   ,F,27,nagpur,laptop,65000.00,Electronics,1
+110,rahul   ,M,28,mumbai,mobile,NaN,Electronics,2
