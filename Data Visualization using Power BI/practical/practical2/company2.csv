@@ -1,0 +1,11 @@
+Company,Category,Region,Sales,Profit
+A,Electronics,West,50000,8000
+B,Furniture,South,10000,2000
+C,Clothing,North,5000,1000
+D,Electronics,East,30000,5000
+E,Furniture,West,20000,4000
+F,Clothing,South,7000,1500
+G,Electronics,North,40000,7000
+H,Furniture,East,25000,5000
+I,Clothing,West,12000,3000
+J,Accessories,South,8000,2000
