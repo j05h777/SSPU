@@ -146,6 +146,7 @@ ON p.category_id=c.category_id;
 
 # (b) reduce the stock of 'Laptop' by 1;
 SET SQL_SAFE_UPDATES=0;
+
 UPDATE products
 SET stock = stock -1
 WHERE product_name='Laptop';
@@ -161,8 +162,10 @@ WHERE order_id IN (
     FROM orders
     WHERE status = 'cancelled'
 );
+
 DELETE FROM orders
 WHERE status = 'cancelled';
-# verifiying
+
+# verifying
 SELECT * FROM orders WHERE status = 'cancelled';
 SELECT * FROM order_items WHERE order_id = 5;
