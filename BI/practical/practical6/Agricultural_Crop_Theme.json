@@ -1,0 +1,29 @@
+{
+  "name": "Agricultural Nature Theme",
+  "dataColors": [
+    "#2E7D32",
+    "#70AD47",
+    "#8B5A2B",
+    "#FFC000",
+    "#5B9BD5",
+    "#A9D18E"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F1F1F",
+  "tableAccent": "#2E7D32",
+  "good": "#70AD47",
+  "neutral": "#FFC000",
+  "bad": "#C00000",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "*": [
+          {
+            "fontSize": 11,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    }
+  }
+}
