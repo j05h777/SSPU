@@ -1,0 +1,262 @@
+TY  - CONF
+TI  - DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning
+PY  - 2017
+AU  - Du, Min
+AU  - Li, Feifei
+AU  - Zheng, Guineng
+AU  - Srikumar, Vivek
+DO  - 10.1145/3133956.3134015
+N1  - Source: ACM CCS 2017; DOI 10.1145/3133956.3134015
+ER  -
+
+TY  - CONF
+TI  - LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs
+PY  - 2019
+AU  - Meng, Weibin
+N1  - Source: IJCAI 2019
+ER  -
+
+TY  - CONF
+TI  - Robust Log-based Anomaly Detection on Unstable Log Data
+PY  - 2019
+AU  - Zhang, Xu
+DO  - 10.1145/3338906.3338931
+N1  - Source: ESEC/FSE 2019; DOI 10.1145/3338906.3338931
+ER  -
+
+TY  - CONF
+TI  - LogBERT: Log Anomaly Detection via BERT
+PY  - 2021
+AU  - Guo, Haixuan
+AU  - Yuan, Shuhan
+AU  - Wu, Xintao
+DO  - 10.1109/IJCNN52387.2021.9534113
+N1  - Source: IJCNN 2021; DOI 10.1109/IJCNN52387.2021.9534113
+ER  -
+
+TY  - CONF
+TI  - Log-based Anomaly Detection Without Log Parsing
+PY  - 2021
+AU  - Zhu, Jieming
+DO  - 10.1109/ASE51524.2021.9678773
+N1  - Source: ASE 2021; DOI 10.1109/ASE51524.2021.9678773
+ER  -
+
+TY  - CONF
+TI  - Self-Attentive Classification-Based Anomaly Detection in Unstructured Logs
+PY  - 2020
+AU  - Nedelkoski, Sasho
+N1  - Source: ICDM 2020
+ER  -
+
+TY  - CONF
+TI  - Unsupervised Log Message Anomaly Detection
+PY  - 2020
+AU  - Farzad, Amir
+AU  - Aaron Gulliver, T.
+N1  - Source: ICT Express 2020
+ER  -
+
+TY  - JOUR
+TI  - Experience Report: Deep Learning-based System Log Analysis for Anomaly Detection
+PY  - 2021
+AU  - Chen, Zhuangbin
+N1  - Source: arXiv:2107.05908
+ER  -
+
+TY  - CONF
+TI  - CloudSeer: Workflow Monitoring of Cloud Infrastructures via Interleaved Logs
+PY  - 2016
+AU  - Yu, Xiao
+DO  - 10.1145/2872407
+N1  - Source: ASPLOS 2016; DOI 10.1145/2872407
+ER  -
+
+TY  - CONF
+TI  - Execution Anomaly Detection in Distributed Systems through Unstructured Log Analysis
+PY  - 2009
+AU  - Fu, Qiang
+AU  - Lou, Jian-Guang
+AU  - Wang, Yi
+AU  - Li, Jiang
+N1  - Source: ICDM 2009
+ER  -
+
+TY  - CONF
+TI  - Experience Report: System Log Analysis for Anomaly Detection
+PY  - 2016
+AU  - He, Shilin
+AU  - Zhu, Jieming
+AU  - He, Pinjia
+AU  - R. Lyu, Michael
+N1  - Source: ISSRE 2016
+ER  -
+
+TY  - JOUR
+TI  - Evaluation of Distributed Machine Learning Algorithms for Anomaly Detection from Large-Scale System Logs: A Case Study
+PY  - 2018
+AU  - Astekin, Merve
+AU  - Zengin, Harun
+AU  - Sözer, Hasan
+N1  - Source: IEEE BigData 2018
+ER  -
+
+TY  - JOUR
+TI  - An Integrated Method for Anomaly Detection From Massive System Logs
+PY  - 2018
+AU  - Liu, Zhaoli
+N1  - Source: IEEE Access 2018
+ER  -
+
+TY  - CONF
+TI  - Capturing and Enhancing In Situ System Observability for Failure Detection
+PY  - 2018
+AU  - Huang, Peng
+N1  - Source: OSDI 2018
+ER  -
+
+TY  - JOUR
+TI  - LogGAN: A Log-level Generative Adversarial Network for Anomaly Detection using Permutation Event Modeling
+PY  - 2020
+AU  - Xia, Bin
+AU  - Bai, Yuxuan
+AU  - Yin, Junjie
+AU  - Li, Yun
+AU  - Xu, Jian
+N1  - Source: Information Systems Frontiers 2020
+ER  -
+
+TY  - CONF
+TI  - Detecting Anomaly in Big Data System Logs Using Convolutional Neural Network
+PY  - 2018
+AU  - Lu, Siyang
+AU  - Wei, Xiang
+AU  - Li, Yandong
+AU  - Wang, Liqiang
+N1  - Source: DASC/PiCom/DataCom/CyberSciTech 2018
+ER  -
+
+TY  - CONF
+TI  - Drain: An Online Log Parsing Approach with Fixed Depth Tree
+PY  - 2017
+AU  - He, Pinjia
+AU  - Zhu, Jieming
+AU  - Zheng, Zibin
+AU  - R. Lyu, Michael
+DO  - 10.1109/ICWS.2017.13
+N1  - Source: ICWS 2017; DOI 10.1109/ICWS.2017.13
+ER  -
+
+TY  - JOUR
+TI  - Spell: Online Streaming Parsing of Large Unstructured System Logs
+PY  - 2019
+AU  - Du, Min
+AU  - Li, Feifei
+DO  - 10.1109/TKDE.2018.2875442
+N1  - Source: IEEE TKDE; DOI 10.1109/TKDE.2018.2875442
+ER  -
+
+TY  - JOUR
+TI  - Towards Automated Log Parsing for Large-Scale Log Data Analysis
+PY  - 2018
+AU  - He, Pinjia
+DO  - 10.1109/TDSC.2017.2762673
+N1  - Source: IEEE TDSC; DOI 10.1109/TDSC.2017.2762673
+ER  -
+
+TY  - CONF
+TI  - Tools and Benchmarks for Automated Log Parsing
+PY  - 2019
+AU  - Zhu, Jieming
+N1  - Source: ICSE-SEIP 2019
+ER  -
+
+TY  - JOUR
+TI  - Logram: Efficient Log Parsing Using n-Gram Dictionaries
+PY  - 2020
+AU  - Dai, Hetong
+AU  - Li, Heng
+AU  - Chen, Che-Shao
+AU  - Shang, Weiyi
+AU  - Chen, Tse-Hsun
+N1  - Source: IEEE TSE 2020
+ER  -
+
+TY  - CONF
+TI  - LogMine: Fast Pattern Recognition for Log Analytics
+PY  - 2016
+AU  - Hamooni, Hossein
+N1  - Source: CIKM 2016
+ER  -
+
+TY  - CONF
+TI  - LogCluster: A Data Clustering and Pattern Mining Algorithm for Event Logs
+PY  - 2015
+AU  - Vaarandi, Risto
+AU  - Pihelgas, Mauno
+N1  - Source: CNSM 2015
+ER  -
+
+TY  - JOUR
+TI  - CausalRCA: Causal inference based precise fine-grained root cause localization for microservice applications
+PY  - 2023
+AU  - Xin, Ruyue
+AU  - Chen, Peng
+AU  - Zhao, Zhimin
+DO  - 10.1016/j.jss.2023.111724
+N1  - Source: Journal of Systems and Software; DOI 10.1016/j.jss.2023.111724
+ER  -
+
+TY  - JOUR
+TI  - Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models
+PY  - 2023
+AU  - Ahmed, Toufique
+N1  - Source: arXiv:2301.03797
+ER  -
+
+TY  - CONF
+TI  - AIOps for log anomaly detection in the era of LLMs: A systematic literature review
+PY  - 2025
+AU  - De la Cruz Cabello, Miguel
+AU  - Prince Sales, Tiago
+AU  - R. Machado, Marcos
+DO  - 10.1016/j.iswa.2025.200608
+N1  - Source: Intelligent Systems with Applications; DOI 10.1016/j.iswa.2025.200608
+ER  -
+
+TY  - JOUR
+TI  - LLM4Log: A Systematic Review of Large Language Model-based Log Analysis
+PY  - 2026
+AU  - Ma, Zeyang
+AU  - Yang, Jinqiu
+AU  - Chen, Tse-Hsun
+N1  - Source: arXiv:2604.16359
+ER  -
+
+TY  - CONF
+TI  - Log anomaly detection in AIOps: A real-world implementation using Large Language Models
+PY  - 2026
+AU  - De la Cruz Cabello, Miguel
+AU  - Prince Sales, Tiago
+AU  - R. Machado, Marcos
+DO  - 10.1016/j.sasc.2026.200475
+N1  - Source: Systems and Soft Computing; DOI 10.1016/j.sasc.2026.200475
+ER  -
+
+TY  - JOUR
+TI  - Think it, Run it: Autonomous machine learning pipeline generation via self-healing multi-agent artificial intelligence
+PY  - 2026
+AU  - Bâra, Adela
+AU  - Dobrița, Gabriela
+AU  - Oprea, Simona-Vasilica
+N1  - Source: arXiv:2604.27096
+ER  -
+
+TY  - JOUR
+TI  - Leveraging Resolved Incident History for LLM-Assisted Software Bug Diagnosis
+PY  - 2026
+AU  - Guan, Boyuan
+AU  - Xu, Hailu
+AU  - Rogers, Jamie
+N1  - Source: arXiv:2607.21911
+ER  -
